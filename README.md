@@ -68,7 +68,6 @@ Execute the program using runserver command.
             <td>MAT</td>
             <td>SS</td>
          </tr> 
-
     </table>
     <br>
     <table align="center" cellspacing="2" cellpadding="4" border="6">
@@ -91,7 +90,6 @@ Execute the program using runserver command.
             <th>3</th>
             <th>19AI414</th>
              <td >Physics For Information Technology (PHY)</td>
-            
         </tr>
         <tr>
             <th >4</th>
@@ -108,14 +106,11 @@ Execute the program using runserver command.
             <th>19AI414</th>
              <td >Soft Skill(SS)</td>
         </tr>
-   
     </table> </center>
-    
 </body>
 </html>
 ```
 ## OUTPUT
 ![alt text](<SLOT TIME .jpg>)
-
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
