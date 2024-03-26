@@ -114,8 +114,6 @@ Execute the program using runserver command.
 </body>
 </html>
 ```
-
-
 ## OUTPUT
 ![alt text](<SLOT TIME .jpg>)
 
