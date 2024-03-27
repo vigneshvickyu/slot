@@ -33,7 +33,7 @@ Execute the program using runserver command.
 <body><center>
     <img src="logo.png"  height="100" >
     
-    <h3>SLOT TIME TABLE-Logesh.N.A (212223240078)</h3>
+    <h3>SLOT TIME TABLE-vignesh.M(212223240176)</h3>
     <table  align="center" bgcolor="cyan"border="6"cellspacing="3" cellpadding="7" width="540">
         <tr  bgcolor="yellow">
             <th >Day/Time</th>
